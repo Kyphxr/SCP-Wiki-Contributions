@@ -8,8 +8,8 @@
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
 
 [[include :scp-wiki:component:info-ayers
-|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]
-|page=scp-5690[!-- url of your page on the scp wiki --]
+|lang=en
+|page=scp-xxxx[!-- url of your page on the scp wiki --]
 |authorPage=https://scp-wiki.wikidot.com/kyphxr-author-page[!-- link to your author page --]
 |comments= = Styles/CSS [[div class="collapsible" style="text-align: center;"]]
 [[collapsible show="☰" hide="☰"]]
@@ -94,28 +94,14 @@ the kyphxr kollection
 
 [[/div]]
 
-[[div style="margin-top: 200px;"]]
-[[image https://img.shields.io/github/commit-activity/m/hellstorm-software/Kult-Rising?color=ff0404&label=commits&style=for-the-badge)](https://github.com/hellstorm-software/Convergence-Changelog/commits "Commit History")]]
-[[/div]]
+[[include :scp-wiki:component:license-box]]
+[[include :scp-wiki:component:license-box-end]]
 
 [[div style="margin-top: 100px;"]]
 = [[image https://github-readme-streak-stats.herokuapp.com/?user=Kyphxr_&theme=cobalt]]
 [[/div]]
 
-[[div class="collapsible-btn collapsible-btn-default"]]
-[[collapsible show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
-> **Filename:** 
-> **Name:** (if different from filename)
-> **Author:**
-> **License:**
-> **Source Link:**
-> **Additional Notes:** (Optional)
-> **Derivative Of:** (Situational)
-[[/collapsible ]]
 [[/div]]
-
-[[/div]]
-
 
 
 
