@@ -195,8 +195,8 @@ logo-image: {
 .griddle {
     position: relative;
     /* border: 3px solid green; */
-    background-color: #ec0000;
-    background-image: url('https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/f51251f94598b78d86e704e6621ba4ca.png');
+    background-color: #4000ff;
+    background-image: url('https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/126f6ae7c7a1e9861e0fbfc7ac688d27.png');
     background-size: 50%;
     background-blend-mode: color-burn;
     background-position: center;
