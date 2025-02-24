@@ -73,11 +73,11 @@
 ]]
 
 [[include fragment:yurtbox 
-|article-class=scp-6274 tall
+|article-class=lovell tall
 |slug=scp-xxxx
-|title=SCP-xxxx
+|title=Dr. Lovell
 |subtitle=PLACEHOLDER
-|subbertitle=ph
+|subbertitle=subliminal
 ]]
 
 [[include fragment:yurtbox 
@@ -449,6 +449,12 @@ a {
 }
 
 .collapse {
+}
+
+.scp-6274 {
+  background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-6274/table.png);
+  background-size: cover;
+  background-blend-mode: color-burn;
 }
 
 [[/module]]
