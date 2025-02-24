@@ -32,7 +32,7 @@
 
 ------
 
-[[div style="background-color: #4000ff;"]]
+[[div class="spcSCP"]]
 [[div style="max-width: 100%; text-align: left;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number=x000
@@ -105,6 +105,13 @@ the kyphxr kollection
 [[/div]]
 
 [[include :scp-wiki:component:license-box]]
+> **Filename:** 
+> **Name:** (if different from filename)
+> **Author:**
+> **License:**
+> **Source Link:**
+> **Additional Notes:** (Optional)
+> **Derivative Of:** (Situational)
 [[include :scp-wiki:component:license-box-end]]
 
 
@@ -383,13 +390,20 @@ background-color: #db0000;
 .ature, .ature a, .ature a:visited {
     color: rgb(var(--bright-accent));
 }
+
 #page-content > .collapsible-block {
 background-color: #0f0f0f;
 border-top: 0.125rem dashed rgb(var(--medium-accent));
 border-bottom: 0.125rem dashed rgb(var(--medium-accent));
 }
+
 a {
  color: #4000ff;
+}
+
+.spcSCP {
+  background-color: #4000ff;
+  height: 800px;
 }
 
 [[/module]]
