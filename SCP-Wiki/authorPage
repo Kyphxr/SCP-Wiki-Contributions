@@ -80,10 +80,10 @@
 |subbertitle=subliminal
 ]]
 
-[[include fragment:yurtbox 
+[[include fragment:kyphBoxImag
 |article-class=commits long
 |slug=scp-6274
-|title=[[image https://github-readme-streak-stats.herokuapp.com/?user=Kyphxr_&theme=cobalt]]
+|imag=[[div]][[image https://github-readme-streak-stats.herokuapp.com/?user=Kyphxr_&theme=cobalt&card_height=100]][[/div]]
 
 [[include fragment:yurtbox 
 |article-class=scp-6274
