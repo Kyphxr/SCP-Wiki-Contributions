@@ -2,7 +2,7 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [[include :scp-wiki:component:rso]]
 [[include :scp-sandbox-3:more-by:kyphxr
-|color=rgb(var(--dark-accent))
+|color= #4000ff
 ]]
 [[include :scp-wiki:component:centered-header-bhl]]
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
@@ -71,7 +71,7 @@
 |subbertitle=TH GROUND ISNT SAFE
 ]]
 
-[[include fragment:yurtbox
+[[include fragment:yurtbox 
 |article-class=scp-6274
 |slug=scp-6274
 |title=SCP-6274
@@ -411,7 +411,7 @@ a {
 }
 
 .spcSCP {
-  background-color: #4000ff;
+  background-color: rgba(72, 0, 255, 0.5);
 }
 
 [[/module]]
