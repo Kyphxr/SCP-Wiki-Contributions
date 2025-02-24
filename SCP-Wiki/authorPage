@@ -197,8 +197,8 @@ logo-image: {
     /* border: 3px solid green; */
     background-color: #4000ff;
     background-image: url('https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/126f6ae7c7a1e9861e0fbfc7ac688d27.png');
-    background-size: 50%;
-    background-blend-mode: color-burn;
+    background-size: 60%;
+    background-blend-mode: screen;
     background-position: center;
     min-height: 12rem;
     border-radius: 0.25rem;
@@ -253,14 +253,14 @@ logo-image: {
     font-style: italic;
     font-weight: bold;
     font-size: 200%;
-    text-shadow: #ec0000 0 0 1px;
+    text-shadow: #3a00ed 0 0 1px;
 }
 
 .griddle .subtitle {
     font-family: "DM Serif Display", serif;
     font-weight: bold;
     font-style: italic;
-    text-shadow: #ec0000 0 0 1px;
+    text-shadow: #3a00ed 0 0 1px;
 }
 
 .griddle .subbertitle {
