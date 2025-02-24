@@ -238,9 +238,17 @@
 ]]
 
 [[include fragment:yurtbox 
-|article-class=scp-xxxx long
+|article-class=scp-xxxx tall
 |slug=scp-6274
 |title=Placeholder 20
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx elong
+|slug=scp-6274
+|title=Placeholder 21
 |subtitle=Placeholder
 |subbertitle=Placeholder
 ]]
