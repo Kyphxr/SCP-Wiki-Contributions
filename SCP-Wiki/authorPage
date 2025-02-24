@@ -80,6 +80,30 @@
 |subbertitle=Dad?
 ]]
 
+[[include fragment:yurtbox 
+|article-class=scp-6274
+|slug=scp-6274
+|title=SCP-6274
+|subtitle=HARBINGER II: The Burnley Estate
+|subbertitle=Dad?
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-6274
+|slug=scp-6274
+|title=SCP-6274
+|subtitle=HARBINGER II: The Burnley Estate
+|subbertitle=Dad?
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-6274
+|slug=scp-6274
+|title=SCP-6274
+|subtitle=HARBINGER II: The Burnley Estate
+|subbertitle=Dad?
+]]
+
 [[/div]]
 
 [[div style="background-color: #6a00ff; width: 300px;"]]
@@ -172,7 +196,7 @@ logo-image: {
     position: relative;
     /* border: 3px solid green; */
     background-color: #ec0000;
-    background-image: url('http://scptestwiki.wdfiles.com/local--files/testyurt/ronder.png');
+    background-image: url('https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/6ac4ab669c7d073624e3fa21488399a5.png');
     background-size: 50%;
     background-blend-mode: color-burn;
     background-position: center;
