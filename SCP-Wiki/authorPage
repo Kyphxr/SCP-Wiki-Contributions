@@ -32,7 +32,7 @@
 
 ------
 
-[[div class="spcSCP" style="height: 600px; margin-bottom: 500px;"]]
+[[div class="spcSCP" style="height: 600px; margin-bottom: 100%;"]]
 [[div style="max-width: 100%; text-align: left;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number=x000
