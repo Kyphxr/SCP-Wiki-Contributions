@@ -32,7 +32,7 @@
 
 ------
 
-[[div class="spcSCP"]]
+[[div class="spcSCP" style="height: 600px; margin-bottom: 500px;"]]
 [[div style="max-width: 100%; text-align: left;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number=x000
@@ -54,6 +54,9 @@
 
 ------
 
+[[div style="margin-top: 100px;"]]
+ㅤ
+[[/div]]
 
 [[div class="biggrid"]]
 
@@ -99,11 +102,6 @@ the kyphxr kollection
 = [[image https://github-readme-streak-stats.herokuapp.com/?user=Kyphxr_&theme=cobalt]]
 [[/div]]
 
-[[div style="margin-top: 350px;"]]
-ㅤ
-[[/div]]
-[[/div]]
-
 [[include :scp-wiki:component:license-box]]
 > **Filename:** 
 > **Name:** (if different from filename)
@@ -113,6 +111,13 @@ the kyphxr kollection
 > **Additional Notes:** (Optional)
 > **Derivative Of:** (Situational)
 [[include :scp-wiki:component:license-box-end]]
+
+[[div style="margin-top: 5000px;"]]
+ㅤ
+[[/div]]
+[[/div]]
+
+
 
 
 [!-- ############################### CSS ######################################## --]
@@ -127,6 +132,10 @@ the kyphxr kollection
 }
 table.page-files, table.page-files tr > td > a:not(.btn) {
     color: white;
+}
+
+#content-wrap {
+    height: 100%;
 }
 
 logo-image: {
@@ -403,7 +412,6 @@ a {
 
 .spcSCP {
   background-color: #4000ff;
-  height: 800px;
 }
 
 [[/module]]
