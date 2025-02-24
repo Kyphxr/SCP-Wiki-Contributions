@@ -67,9 +67,9 @@
 [[include fragment:yurtbox
 |article-class=scp-5140 tall long
 |slug=scp-5140
-|title=SCP-5140
-|subtitle=EVEREST
-|subbertitle=TH GROUND ISNT SAFE
+|title=SCP-Placeholder
+|subtitle=Placeholder
+|subbertitle=Placeholder
 ]]
 
 [[include fragment:yurtbox 
@@ -81,48 +81,48 @@
 ]]
 
 [[include fragment:kyphBoxImag
-|article-class=commits long
-|slug=scp-6274
-|imag=[[div]][[image https://github-readme-streak-stats.herokuapp.com/?user=Kyphxr_&theme=cobalt&card_height=100]][[/div]]
-
-[[include fragment:yurtbox 
-|article-class=scp-6274
-|slug=scp-6274
-|title=SCP-6274
-|subtitle=HARBINGER II: The Burnley Estate
-|subbertitle=Dad?
-]]
-
-[[include fragment:yurtbox 
-|article-class=scp-6274
-|slug=scp-6274
-|title=SCP-6274
-|subtitle=HARBINGER II: The Burnley Estate
-|subbertitle=Dad?
-]]
-
-[[include fragment:yurtbox 
-|article-class=scp-6274
-|slug=scp-6274
-|title=SCP-6274
-|subtitle=HARBINGER II: The Burnley Estate
-|subbertitle=Dad?
-]]
-
-[[include fragment:yurtbox 
-|article-class=scp-6274
-|slug=scp-6274
-|title=SCP-6274
-|subtitle=HARBINGER II: The Burnley Estate
-|subbertitle=Dad?
-]]
-
-[[include fragment:yurtbox 
 |article-class=scp-6274 long
 |slug=scp-6274
-|title=SCP-6274
-|subtitle=HARBINGER II: The Burnley Estate
-|subbertitle=Dad?
+|imag=[[div]][[image https://github-readme-streak-stats.herokuapp.com/?user=Kyphxr_&theme=cobalt&card_height=90]][[/div]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx long
+|slug=scp-6274
+|title=Placeholder
+|subtitle=Placeholder
+|subbertitle=Placeholder
 ]]
 
 [[/div]]
@@ -450,6 +450,12 @@ a {
 
 .scp-6274 {
   background-image: url(https://scp-wiki.wdfiles.com/local--files/scp-6274/table.png);
+  background-size: cover;
+  background-blend-mode: color-burn;
+}
+
+.commits {
+  background-image: url(https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png);
   background-size: cover;
   background-blend-mode: color-burn;
 }
