@@ -88,7 +88,7 @@
 [[include fragment:yurtbox 
 |article-class=scp-xxxx
 |slug=scp-6274
-|title=Placeholder
+|title=Placeholder 1
 |subtitle=Placeholder
 |subbertitle=Placeholder
 ]]
@@ -96,15 +96,7 @@
 [[include fragment:yurtbox 
 |article-class=scp-xxxx
 |slug=scp-6274
-|title=Placeholder
-|subtitle=Placeholder
-|subbertitle=Placeholder
-]]
-
-[[include fragment:yurtbox 
-|article-class=scp-xxxx
-|slug=scp-6274
-|title=Placeholder
+|title=Placeholder 2
 |subtitle=Placeholder
 |subbertitle=Placeholder
 ]]
@@ -112,7 +104,7 @@
 [[include fragment:yurtbox 
 |article-class=scp-xxxx tall long
 |slug=scp-6274
-|title=Placeholder
+|title=Placeholder 3
 |subtitle=Placeholder
 |subbertitle=Placeholder
 ]]
@@ -120,7 +112,7 @@
 [[include fragment:yurtbox 
 |article-class=scp-xxxx
 |slug=scp-6274
-|title=Placeholder
+|title=Placeholder 4
 |subtitle=Placeholder
 |subbertitle=Placeholder
 ]]
@@ -128,7 +120,7 @@
 [[include fragment:yurtbox 
 |article-class=scp-xxxx
 |slug=scp-6274
-|title=Placeholder
+|title=Placeholder 5
 |subtitle=Placeholder
 |subbertitle=Placeholder
 ]]
@@ -136,7 +128,7 @@
 [[include fragment:yurtbox 
 |article-class=scp-xxxx
 |slug=scp-6274
-|title=Placeholder
+|title=Placeholder 6
 |subtitle=Placeholder
 |subbertitle=Placeholder
 ]]
@@ -144,7 +136,15 @@
 [[include fragment:yurtbox 
 |article-class=scp-xxxx
 |slug=scp-6274
-|title=Placeholder
+|title=Placeholder 7
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx elong
+|slug=scp-6274
+|title=Placeholder 8
 |subtitle=Placeholder
 |subbertitle=Placeholder
 ]]
@@ -152,7 +152,7 @@
 [[include fragment:yurtbox 
 |article-class=scp-xxxx
 |slug=scp-6274
-|title=Placeholder
+|title=Placeholder 9
 |subtitle=Placeholder
 |subbertitle=Placeholder
 ]]
@@ -160,7 +160,7 @@
 [[include fragment:yurtbox 
 |article-class=scp-xxxx
 |slug=scp-6274
-|title=Placeholder
+|title=Placeholder 10
 |subtitle=Placeholder
 |subbertitle=Placeholder
 ]]
@@ -365,6 +365,10 @@ logo-image: {
 
 .long {
     grid-column-end: span 2;
+}
+
+.elong {
+    grid-column-end: span 3;
 }
 
 .tall {
