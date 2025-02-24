@@ -1,6 +1,6 @@
 [[include theme:black-highlighter-theme]]
 [[include :scp-wiki:component:rso]]
-[[include :scp-wiki:more-by:rounderhouse
+[[include :scp-sandbox-3:more-by:kyphxr
 |color=rgb(var(--dark-accent))
 ]]
 [[include :scp-wiki:component:centered-header-bhl]]
