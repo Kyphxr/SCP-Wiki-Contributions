@@ -254,7 +254,15 @@
 ]]
 
 [[include fragment:yurtbox 
-|article-class=scp-xxxx elong
+|article-class=scp-xxxx selong
+|slug=scp-6274
+|title=Placeholder 22
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx fulllong
 |slug=scp-6274
 |title=Placeholder 22
 |subtitle=Placeholder
@@ -466,6 +474,14 @@ logo-image: {
 
 .elong {
     grid-column-end: span 3;
+}
+
+.selong {
+    grid-column-end: span 4;
+}
+
+.fulllong {
+    grid-column-end: span 5;
 }
 
 .tall {
