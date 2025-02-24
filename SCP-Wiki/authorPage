@@ -118,10 +118,14 @@ the kyphxr kollection
 table.page-files, table.page-files tr > td > a:not(.btn) {
     color: white;
 }
+#header {
+    background-image: none;
+}
 
 #page-title {
     display: none;
 }
+
 #extra-div-1 {
   display: block;
   position: absolute;
