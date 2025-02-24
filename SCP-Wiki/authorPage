@@ -28,7 +28,7 @@ A huge thanks to Rounderhouse who made a lot of the CSS I used here. Check out h
 
 ------
 
-[[div style="max-width: 100%; margin-left: -80%; "]]
+[[div style="max-width: 100%; text-align: left;"]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number=x000
 |clearance= 5
@@ -46,6 +46,7 @@ A huge thanks to Rounderhouse who made a lot of the CSS I used here. Check out h
 
 **Addendum x000-1:** The x designation in SCP-x000 signifies its orgin from the ███████ universe, designated Dimension-AU192412118919
 ------
+
 
 [[div class="biggrid"]]
 
