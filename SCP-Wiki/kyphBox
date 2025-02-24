@@ -8,5 +8,6 @@
 [[span class="title"]]{$title}[[/span]] _
 [[span class="subtitle"]]{$subtitle}[[/span]] _
 [[span class="subbertitle"]]{$subbertitle}[[/span]] _
+[[span class="imag" style="font-size: 1px;"]]{$imag}[[/span]] _
 [[/a]]
 [[/div]]
