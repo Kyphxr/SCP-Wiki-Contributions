@@ -98,7 +98,11 @@ the kyphxr kollection
 [[/div]]
 [[/div]]
 
+[[include :scp-wiki:component:license-box]]
+[[include :scp-wiki:component:license-box-end]]
 
+
+@@############################### CSS ########################################
 
 [[module CSS]]
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
