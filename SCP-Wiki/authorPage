@@ -28,7 +28,7 @@ A huge thanks to Rounderhouse who made a lot of the CSS I used here. Check out h
 
 ------
 
-[[div style="max-width: 60%; margin-left: 20%;"]]
+[[div style="max-width: 100%; "]]
 [[include :scp-wiki:component:anomaly-class-bar-source
 |item-number=x000
 |clearance= 5
@@ -111,16 +111,8 @@ the kyphxr kollection
 ㅤ
 [[/div]]
 
-[[module CSS]]
-#main-content {
-    background-color: #CCCCCC;
-    max-width: 100%;
-    width: 70%;
-}
-#page-content {
-    max-width: 100%;
-    width: 100%;
-}
+
+
 [[module CSS]]
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Telex&display=swap');
