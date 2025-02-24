@@ -189,8 +189,8 @@
 |subbertitle=Placeholder
 ]]
 
-[[include fragment:yurtbox 
-|article-class=scp-xxxx
+[[include fragment:kyphxBoxScrollr
+|article-class=scp-xxxx long
 |slug=scp-6274
 |title=Placeholder 14
 |subtitle=Placeholder
@@ -214,7 +214,7 @@
 ]]
 
 [[include fragment:yurtbox 
-|article-class=scp-xxxx
+|article-class=scp-xxxx tall
 |slug=scp-6274
 |title=Placeholder 17
 |subtitle=Placeholder
