@@ -196,7 +196,7 @@ logo-image: {
     position: relative;
     /* border: 3px solid green; */
     background-color: #ec0000;
-    background-image: url('http://scptestwiki.wdfiles.com/local--files/testyurt/ronder.png');
+    background-image: url('https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/f51251f94598b78d86e704e6621ba4ca.png');
     background-size: 50%;
     background-blend-mode: color-burn;
     background-position: center;
