@@ -254,7 +254,7 @@
 ]]
 
 [[include fragment:yurtbox 
-|article-class=scp-xxxx selong
+|article-class=scp-xxxx long
 |slug=scp-6274
 |title=Placeholder 22
 |subtitle=Placeholder
@@ -262,13 +262,28 @@
 ]]
 
 [[include fragment:yurtbox 
-|article-class=scp-xxxx fulllong
+|article-class=scp-xxxx 
 |slug=scp-6274
-|title=Placeholder 22
+|title=Placeholder 23
 |subtitle=Placeholder
 |subbertitle=Placeholder
 ]]
 
+[[include fragment:yurtbox 
+|article-class=scp-xxxx 
+|slug=scp-6274
+|title=Placeholder 24
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx fulllong
+|slug=scp-6274
+|title=Placeholder 25
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
 
 [[/div]]
 
