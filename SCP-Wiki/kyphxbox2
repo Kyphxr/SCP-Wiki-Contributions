@@ -4,7 +4,7 @@
 [[/iftags]]
 
 [[div class="griddle {$article-class}" style="{$extra-styling};"]]
-[[a class="siddle" href="{$slug}"]]
+[[a class="siddle" href="{$slug}" target="_blank"]]
 [[span class="title"]]{$title}[[/span]] _
 [[span class="subtitle"]]{$subtitle}[[/span]] _
 [[span class="subbertitle"]]{$subbertitle}[[/span]] _
