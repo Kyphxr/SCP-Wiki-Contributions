@@ -4,6 +4,6 @@
 
 [[div class="griddle {$article-class}" style="{$extra-styling};"]]
 [[a class="siddle" href="https://scp-wiki.wikidot.com/{$slug}"]]
-[[span class="imag" style="font-size: 1px; margin-top: -5px;"]]{$imag}[[/span]] _
+[[span class="imag" style="font-size: 1px; margin-top: -20px;"]]{$imag}[[/span]] _
 [[/a]]
 [[/div]]
