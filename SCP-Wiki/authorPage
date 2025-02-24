@@ -3,6 +3,11 @@
 [[include :scp-wiki:component:centered-header-bhl]]
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
 
+|lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]
+|page=scp-5690[!-- url of your page on the scp wiki --]
+|authorPage=https://scp-wiki.wikidot.com/rounderhouse-s-author-page[!-- link to your author page --]
+|comments= Coming Soon - Rounderhouse
+]]
 [[=]]
 [[module Rate]]
 [[/=]]
@@ -352,5 +357,22 @@ background-color: #db0000;
   color: black;
   border-left: 5px solid black;
   border-bottom: 5px solid black;
+}
+.info-container{
+--barColour: rgb(var(--dark-accent));
+--linkColour: rgb(var(--bright-accent));
+}
+
+.sign {
+    color: white;
+}
+
+.ature, .ature a, .ature a:visited {
+    color: rgb(var(--bright-accent));
+}
+#page-content > .collapsible-block {
+background-color: #0f0f0f;
+border-top: 0.125rem dashed rgb(var(--medium-accent));
+border-bottom: 0.125rem dashed rgb(var(--medium-accent));
 }
 [[/module]]
