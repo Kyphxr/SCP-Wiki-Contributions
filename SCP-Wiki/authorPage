@@ -119,10 +119,6 @@ table.page-files, table.page-files tr > td > a:not(.btn) {
     color: white;
 }
 
-#extra-div-3 {
-   display: none;
-}
-
 logo-image: {
     display: none;
 }
@@ -139,6 +135,14 @@ logo-image: {
   background-position: 50% 65%;
   background-repeat: repeat-x;
   pointer-events: none;
+}
+
+#extra-div-2 {
+   display: none;
+}
+
+#extra-div-3 {
+   display: none;
 }
 
 .biggrid {
