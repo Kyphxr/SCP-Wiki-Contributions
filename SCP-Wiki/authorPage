@@ -158,7 +158,7 @@
 ]]
 
 [[include fragment:yurtbox 
-|article-class=scp-xxxx tall
+|article-class=translatr tall
 |slug=scp-6274
 |title=Kyphxr's Translator
 |subtitle=The Ultimate Shitpost Machine
@@ -651,6 +651,12 @@ a {
 
 .commits {
   background-image: url(https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png);
+  background-size: cover;
+  background-blend-mode: color-burn;
+}
+
+.translatr {
+  background-image: url(https://ph-files.imgix.net/f318506a-0820-470b-85af-fe9392a2420d.png);
   background-size: cover;
   background-blend-mode: color-burn;
 }
