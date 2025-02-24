@@ -73,7 +73,7 @@
 ]]
 
 [[include fragment:yurtbox 
-|article-class=lovell tall
+|article-class=lovell tall long
 |slug=scp-xxxx
 |title=Dr. Lovell
 |subtitle=PLACEHOLDER
@@ -110,6 +110,14 @@
 ]]
 
 [[include fragment:yurtbox 
+|article-class=scp-xxxx tall long
+|slug=scp-6274
+|title=Placeholder
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
 |article-class=scp-xxxx
 |slug=scp-6274
 |title=Placeholder
@@ -118,7 +126,39 @@
 ]]
 
 [[include fragment:yurtbox 
-|article-class=scp-xxxx long
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx
+|slug=scp-6274
+|title=Placeholder
+|subtitle=Placeholder
+|subbertitle=Placeholder
+]]
+
+[[include fragment:yurtbox 
+|article-class=scp-xxxx
 |slug=scp-6274
 |title=Placeholder
 |subtitle=Placeholder
