@@ -210,7 +210,7 @@ logo-image: {
 
 
 .griddle:hover, .griddle:focus, .griddle:active {
-    background-color: #ffa6a6;
+    background-color: #8e69ff;
     background-position: 60% 60%;
 }
 
