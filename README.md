@@ -1,1 +1,1 @@
-# SCP-Wiki-Contributions
+#Wiki-Contributions
