@@ -3,20 +3,6 @@
 [[include :scp-wiki:component:centered-header-bhl]]
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
 
-[[module CSS]]
-#main-content {
-    background-color: #CCCCCC;
-    max-width: 100%;
-    width: 70%;
-}
-#page-content {
-    max-width: 100%;
-    width: 100%;
-}
-[[/module]]
-
-
-
 [[=]]
 [[module Rate]]
 [[/=]]
@@ -124,3 +110,264 @@ the kyphxr kollection
 [[div style="margin-top: 350px;"]]
 ㅤ
 [[/div]]
+
+[[module CSS]]
+#main-content {
+    background-color: #CCCCCC;
+    max-width: 100%;
+    width: 70%;
+}
+#page-content {
+    max-width: 100%;
+    width: 100%;
+}
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Telex&display=swap');
+.serif {
+    font-family: "DM Serif Display", serif;
+}
+table.page-files, table.page-files tr > td > a:not(.btn) {
+    color: white;
+}
+
+#page-title {
+    display: none;
+}
+#extra-div-1 {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 10.1rem;
+  background-image: url("http://scptestwiki.wikidot.com/local--files/testyurt/rndrhs.png");
+  background-size: cover;
+  background-position: 50% 65%;
+  background-repeat: repeat-x;
+  pointer-events: none;
+}
+
+.biggrid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(10px, 1fr));
+    align-items: stretch;
+    column-gap: 0.75rem;
+    row-gap: 0.75rem;
+    grid-auto-flow: dense;
+
+    width: 75vw;
+    max-width: 100vw !important;
+    position: relative;
+    left: calc(-37.5vw + 50%);
+}
+
+.griddle > p {
+   margin: 0;
+}
+
+.griddle {
+    position: relative;
+    /* border: 3px solid green; */
+    background-color: #ec0000;
+    background-image: url('http://scptestwiki.wdfiles.com/local--files/testyurt/ronder.png');
+    background-size: 50%;
+    background-blend-mode: color-burn;
+    background-position: center;
+    min-height: 12rem;
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
+
+    place-self: stretch;
+    transition: all 500ms ease-in-out;
+}
+
+
+.griddle:hover, .griddle:focus, .griddle:active {
+    background-color: #ffa6a6;
+    background-position: 60% 60%;
+}
+
+.griddle h1, .griddle h2, .griddle h3 {
+    font-family: "DM Serif Display", serif;
+    font-style: italic;
+}
+/*
+.griddle p:first-of-type {
+   position: relative;
+   top: -1rem;
+}
+
+.griddle p:last-of-type {
+   position: relative;
+   bottom: -1rem;
+   align-self: flex-end;
+}
+
+
+*/
+
+.siddle {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 3%;
+    padding-top: 0;
+    color: black!important;
+    text-decoration: none!important;
+}
+
+.griddle .title {
+    font-family: "DM Serif Display", serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 200%;
+    text-shadow: #ec0000 0 0 1px;
+}
+
+.griddle .subtitle {
+    font-family: "DM Serif Display", serif;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: #ec0000 0 0 1px;
+}
+
+.griddle .subbertitle {
+    font-family: "Telex", sans-serif;
+    font-style: italic;
+    font-size: 80%;
+    margin-left: auto;
+    margin-top: auto;
+}
+
+.alphagriddle {
+    display: block;
+    min-height: 10rem;
+    /* border: 3px solid blue; */
+    grid-row-end: span 2;
+    grid-column-end: span 3;
+   border-radius: 0.25rem;
+   background-image: url(http://scptestwiki.wikidot.com/local--files/testyurt/rndrhs2.png);
+   background-size: cover;
+   background-position: center;
+}
+
+.alphagriddle img {
+   border-radius: 0.25rem;
+}
+
+.art {
+    background-size: cover;
+    pointer-events: none;
+    /* background-color: transparent; */
+    background-blend-mode: luminosity;
+}
+
+.art .title, .art .subtitle, .art .subbertitle {
+    display: none;
+}
+
+.art:hover {
+    background-color: transparent;
+}
+
+.long {
+    grid-column-end: span 2;
+}
+
+.tall {
+    grid-row-end: span 2;
+}
+
+.fave {
+}
+
+.fave::after {
+background-color: #db0000;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/ab/Radial_engine.gif');
+  background-blend-mode: screen;
+  background-size: contain;
+  background-position: center;
+  width: 1rem;
+  height: 1rem;
+  content: "";
+  z-index: 0;
+  display: block;
+  padding: 0.5rem 0.5rem;
+  position: absolute;
+  font-size: 70%;
+  right: -0.25rem;
+  top: -0.25rem;
+  color: black;
+  border-left: 5px solid black;
+  border-bottom: 5px solid black;
+  background-repeat: no-repeat;
+}
+
+.threehundo {
+}
+
+.threehundo::after {
+  background: #db0000;
+  width: 10rem;
+  height: 1rem;
+  content: "+300";
+  z-index: 0;
+  display: block;
+  width: fit-content;
+  padding: 0.5rem 0.5rem;
+  position: absolute;
+  font-size: 60%;
+  right: -0.25rem;
+  top: -0.25rem;
+  color: black;
+  border-left: 5px solid black;
+  border-bottom: 5px solid black;
+}
+
+.fivehundo {
+}
+
+.fivehundo::after {
+  background: #db0000;
+  width: 10rem;
+  height: 1rem;
+  content: "+500";
+  z-index: 0;
+  display: block;
+  width: fit-content;
+  padding: 0.5rem 0.5rem;
+  position: absolute;
+  font-size: 60%;
+  right: -0.25rem;
+  top: -0.25rem;
+  color: black;
+  outline: 5px solid black;
+}
+
+.thousando {
+}
+
+.thousando::after {
+  background: #db0000;
+  width: 10rem;
+  height: 1rem;
+  content: "+1000";
+  z-index: 0;
+  display: block;
+  width: fit-content;
+  padding: 0.5rem 0.5rem;
+  position: absolute;
+  font-size: 60%;
+  right: -0.25rem;
+  top: -0.25rem;
+  color: black;
+  border-left: 5px solid black;
+  border-bottom: 5px solid black;
+}
+[[/module]]
