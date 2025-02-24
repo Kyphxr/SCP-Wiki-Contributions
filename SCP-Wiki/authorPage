@@ -278,7 +278,7 @@ logo-image: {
     grid-row-end: span 2;
     grid-column-end: span 3;
    border-radius: 0.25rem;
-   background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/6ac4ab669c7d073624e3fa21488399a5.png);
+   background-image: url(https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/3016da336919a9f9e5a13c1bd312e42b.png);
    background-size: cover;
    background-position: center;
 }
