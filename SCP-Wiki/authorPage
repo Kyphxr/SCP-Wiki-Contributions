@@ -1,70 +1,99 @@
-SCP Sandbox III
-Sandbox III: Revenge of the Sandbox
-Front Page
-SCP Foundation Main Page
-KyphxrKyphxr | My account ▼
-FacebookTwitterRedditInstagramTwitchTikTokDiscord
-home.pngMain
-Authors' Resources
+[[include :scp-wiki:component:toggle-sidebar-bhl]]
+[[module CSS]]
+#main-content {
+    background-color: #CCCCCC;
+    max-width: 100%;
+    width: 70%;
+}
+#page-content {
+    max-width: 100%;
+    width: 100%;
+}
+[[/module]]
 
-series.png Per the greenlighting policy, first-time authors must get concepts reviewed in the Ideas Critique Forum or IRC chatrooms before creating a feedback thread in the Drafts and Critique forum. Draft critique can still be sought via IRC and PM without greenlights.
-series.png When you have a draft that you know for sure the audience will like, bring it to Drafts Critique Forum. Please note that the forums move much slower than the chat, and the draft forum moves slower than the ideas forum!
-series.png The mainsite-run IRC chatrooms are the most reliable source of real-time critique discussion.
-SCP Sandbox
 
-series.png Join the Site!
-series.png A standard sandbox can only be edited by the original author or a mod/admin.
-series.png For collaborative pages, please read the instructions here.
-series.png Sandbox titles should have the author name, not draft name. This helps make it clear at a glance who owns the page.
-series.png Remember to click "Save" and NOT "Save Draft" when editing pages.
-Main SCP Wiki
 
-main.pngSCP Wiki
-help.pngHow to Write an SCP
-help.pngGuide Hub
-Admin
+[[=]]
+[[module Rate]]
+[[/=]]
+[[div style="font-size: 28px;"]]
+= **KYPHXR'S AUTHOR PAGE**
 
-black.png
-rating: 0+x
-KYPHXR'S AUTHOR PAGE
+[[div style="font-size: 14px; margin-top: -25px;"]]
+= {{[ky-fer]}}
+[[/div]]
 
-[ky-fer]
+[[/div]]
+[[div class="collapsible-btn collapsible-btn-default" style="text-align: center;"]]
+[[collapsible show="☰" hide="☰"]]
+Styles/CSS library
+------
+[[div]]
+More by this author
+[[/div]]
+------
+Some content
+[[/collapsible]]
+[[/div]]
 
-☰
-Item#: x000
-Level5
-Containment Class:
-esoteric
-Secondary Class:
-ticonderoga
-Disruption Class:
-amida
-Risk Class:
-critical
-link to memo
-Special Containment Procedures: SCP-x000 is to remain on the webpage "https://scp-wiki.wikidot.com/kyphxr-author-page". Any instances of SCP-x000 appearing on other sites are to be reported to Dr. Lovell immediately.
+------
 
-Description: SCP-x000 is an assortment of data and media regarding the non-euclidean, surreal, liminal, and [DATA EXPUNGED]. The true designation of SCP-x000 is TICONDEROGA however the THAUMIEL icon is used to designate SCP-x000's [DATA EXPUNGED].
+[[div style="max-width: 60%; margin-left: 20%;"]]
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number=x000
+|clearance= 5
+|container-class= esoteric
+|secondary-class= ticonderoga
+|secondary-icon=https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/thaumiel-icon.svg
+|disruption-class= amida
+|risk-class= critical
+]]
+[[/div]]
 
-Addendum x000-1: The x designation in SCP-x000 signifies its orgin from the ███████ universe, designated Dimension-AU192412118919
+**Special Containment Procedures:** SCP-x000 is to remain on the webpage "https://scp-wiki.wikidot.com/kyphxr-author-page". Any instances of SCP-x000 appearing on other sites are to be reported to [https://scp-sandbox-3.wikidot.com/kyphxr-dr-lovell Dr. Lovell] immediately.
 
-ㅤDr. Lovell
+**Description:** SCP-x000 is an assortment of data and media regarding the non-euclidean, surreal, liminal, and [DATA EXPUNGED]. The true designation of SCP-x000 is //TICONDEROGA// however the //THAUMIEL// icon is used to designate SCP-x000's [DATA EXPUNGED].
 
-cell-content	cell-content	cell-content
-cell-content	cell-content	cell-content
-cell-content	cell-content	cell-content
-ㅤSCP-8157
+**Addendum x000-1:** The x designation in SCP-x000 signifies its orgin from the ███████ universe, designated Dimension-AU192412118919
+------
 
-·············· Kult Rising ··············
+[[div style="background-color: #6a00ff; width: 300px;"]]
 
+[[div style="font-size: 28px; color: #000;"]]
+ㅤ**Dr. Lovell**
+[[/div]]
+
+|| cell-content || cell-content || cell-content ||
+|| cell-content || cell-content || cell-content ||
+|| cell-content || cell-content || cell-content ||
+
+[[/div]]
+
+[[div style="background-color: #6a00ff; width: 300px; margin-left: 310px; margin-top: -250px; margin-bottom: 250px;"]]
+
+[[div style="font-size: 28px; color: #000;"]]
+ㅤ**SCP-8157**
+[[/div]]
+
+[[/div]]
+
+------
+[[div style="font-size: 28px;"]]
+= ·············· **Kult Rising** ··············
+[[div style="background-color: rgba(72, 0, 255, 0.3); width: 20%; text-align: center; margin-left: 40%; font-size: 20px; color: #ff0011;"]]
 the kyphxr kollection
+[[/div]]
 
-commits
-?user=HellStorm-Software_&theme=cobalt
+[[/div]]
 
+[[div style="margin-top: 200px;"]]
+[[image https://img.shields.io/github/commit-activity/m/hellstorm-software/Kult-Rising?color=ff0404&label=commits&style=for-the-badge)](https://github.com/hellstorm-software/Convergence-Changelog/commits "Commit History")]]
+[[/div]]
+
+[[div style="margin-top: 100px;"]]
+= [[image https://github-readme-streak-stats.herokuapp.com/?user=Kyphxr_&theme=cobalt]]
+[[/div]]
+
+[[div style="margin-top: 350px;"]]
 ㅤ
-
-page revision: 118, last edited: 23 Feb 2025, 19:59 (7 minutes ago)
-Stop watching site scp-sandbox-3.wikidot.com [?]
-Edit Tags History Files Print Site tools + Options
-Help  | Terms of Service  | Privacy  | Report a bug  | Flag as objectionablePowered by Wikidot.com
+[[/div]]
