@@ -11,8 +11,7 @@
     color: black;
     border: 2px solid black;
     border-radius: 2px;
-    background-color: #feffda;
-    background-color: {$color};
+    background-color: #ff0000;
 }
 .sign p {
     margin: 0;
@@ -23,7 +22,7 @@
 }
 
 .ature, .ature a, .ature a:visited {
-    color: #c4161c;
+    color: #4000ff
     font-size: 1.1em;
     font-family: 'Secular One', sans-serif;
 }
@@ -33,3 +32,7 @@
 [[div class="sign"]]
 The [[span class="ature"]][https://twitter.com/rounderhouse Kyphxr][[/span]] Kollection
 [[/div]]
+
+[[code]]
+This module was created by Rounderhouse
+[[/code]]
