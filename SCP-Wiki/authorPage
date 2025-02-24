@@ -9,8 +9,12 @@
 [[include :scp-wiki:component:info-ayers
 |lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]
 |page=scp-5690[!-- url of your page on the scp wiki --]
-|authorPage=https://scp-wiki.wikidot.com/rounderhouse-s-author-page[!-- link to your author page --]
-|comments= Coming Soon - Rounderhouse
+|authorPage=https://scp-wiki.wikidot.com/kyphxr-author-page[!-- link to your author page --]
+|comments= [[div class="collapsible-btn collapsible-btn-default" style="text-align: center;"]]
+[[collapsible show="☰" hide="☰"]]
+A huge thanks to Rounderhouse who made a lot of the CSS I used here. Check out his page [https://scp-wiki.wikidot.com/rounderhouse-s-author-page here]
+[[/collapsible]]
+[[/div]]
 ]]
 
 [[=]]
@@ -23,18 +27,6 @@
 = {{[ky-fer]}}
 [[/div]]
 
-[[/div]]
-
-[[div class="collapsible-btn collapsible-btn-default" style="text-align: center;"]]
-[[collapsible show="☰" hide="☰"]]
-Styles/CSS library
-------
-[[div]]
-More by this author
-[[/div]]
-------
-A huge thanks to Rounderhouse who made a lot of the CSS I used here. Check out his page [https://scp-wiki.wikidot.com/rounderhouse-s-author-page here]
-[[/collapsible]]
 [[/div]]
 
 ------
@@ -112,9 +104,9 @@ the kyphxr kollection
 [[include :scp-wiki:component:license-box-end]]
 
 
-@@ ############################### CSS ########################################
-@@ ###########################################################################
-@@ ###########################################################################
+[!-- ############################### CSS ######################################## --]
+[!-- ########################################################################### --]
+[!-- ########################################################################### --]
 
 [[module CSS]]
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
