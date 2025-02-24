@@ -118,11 +118,12 @@ the kyphxr kollection
 table.page-files, table.page-files tr > td > a:not(.btn) {
     color: white;
 }
-#header {
-    background-image: none;
+
+#extra-div-3 {
+   display: none;
 }
 
-#page-title {
+logo-image: {
     display: none;
 }
 
