@@ -2,7 +2,7 @@
 [[include :scp-sandbox-3:theme:dimension-x]]
 [[include :scp-wiki:component:rso]]
 [[include :scp-sandbox-3:more-by:kyphxr
-|color= #4000ff
+|color=#4000ff
 ]]
 [[include :scp-wiki:component:centered-header-bhl]]
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
