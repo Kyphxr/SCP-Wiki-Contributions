@@ -11,7 +11,7 @@
 |lang=en[!-- EN/RU/KO/CN/FR/PL/ES/TH/JP/DE/IT/UA/PTBR --]
 |page=scp-5690[!-- url of your page on the scp wiki --]
 |authorPage=https://scp-wiki.wikidot.com/kyphxr-author-page[!-- link to your author page --]
-|comments= = Styles/CSS [[div class="collapsible-btn collapsible-btn-default" style="text-align: center;"]]
+|comments= = Styles/CSS [[div class="collapsible" style="text-align: center;"]]
 [[collapsible show="☰" hide="☰"]]
 = A huge thanks to Rounderhouse who made a lot of the CSS I used here. Check out his page [https://scp-wiki.wikidot.com/rounderhouse-s-author-page here]
 [[/collapsible]]
@@ -102,7 +102,8 @@ the kyphxr kollection
 = [[image https://github-readme-streak-stats.herokuapp.com/?user=Kyphxr_&theme=cobalt]]
 [[/div]]
 
-[[include :scp-wiki:component:license-box]]
+[[div class="collapsible-btn collapsible-btn-default"]]
+[[collapsible show="‡ Licensing / Citation" hide="‡ Hide Licensing / Citation"]]
 > **Filename:** 
 > **Name:** (if different from filename)
 > **Author:**
@@ -110,7 +111,8 @@ the kyphxr kollection
 > **Source Link:**
 > **Additional Notes:** (Optional)
 > **Derivative Of:** (Situational)
-[[include :scp-wiki:component:license-box-end]]
+[[/collapsible ]]
+[[/div]]
 
 [[/div]]
 
@@ -409,6 +411,9 @@ a {
 
 .spcSCP {
   background-color: rgba(72, 0, 255, 0.5);
+}
+
+.collapse {
 }
 
 [[/module]]
