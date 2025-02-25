@@ -11,6 +11,9 @@
 .tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
 [[/module]]
 
+[[>]]
+[[module Rate]]
+[[/>]]
 
 [[div class="email-example"]]
 [[=]]
@@ -26,13 +29,9 @@
 ------
 
 + Attention all site directors,
-In an effort to create a more stable backup system and contingency plans,
-I have begun work on Project [DATA EXPUNGED]. However, one hold up that i would 
-like to request assistance for involves the relocation of spacial or geographic anomalies. 
+In an effort to create a more stable backup system and contingency plans, I have begun work on Project [DATA EXPUNGED]. However, one hold up that I would like to request assistance for involves the relocation of spacial or geographic anomalies. 
 
-Site-814 and SCP-[DATA EXPUNGED] are being constructed for the purpose of harboring 
-anomalies that defy are understanding of physical space, and if we could develop a method
-of moving large areas of land, we could potentially alleviate dozens of SCPs to the Safe designation.
+Site-814 and SCP-[DATA EXPUNGED] are being constructed for the purpose of harboring anomalies that defy are understanding of physical space, and if we could develop a method of moving large areas of land, we could potentially re-classify dozens of SCPs to the Safe designation.
 [[/div]]
 [[/<]]
 [[/collapsible]]
