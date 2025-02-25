@@ -532,5 +532,5 @@ form#edit-page-form .edit-page-bottomtable tr > td:nth-of-type(1) > div:nth-of-t
 [[include :scp-wiki:component:centered-header-bhl]]
 [[include :scp-wiki:component:toggle-sidebar-bhl]]
 [[module CSS]]
-@import url("https://scp-wiki.wdfiles.com/local--code/theme%3Ahighroller/1");
+@import url("https://scp-sandbox-3.wdfiles.com/local--code/theme%3Adimension-x/1");
 [[/module]]
