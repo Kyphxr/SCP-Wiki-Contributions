@@ -1,3 +1,15 @@
+[[module CSS]]
+.email-example .collapsible-block-folded a.collapsible-block-link {
+    animation: blink 0.8s ease-in-out infinite alternate;
+}
+@keyframes blink {
+    0% { color: transparent; }
+    50%, 100% { color: #b01; }
+}
+.email {border: solid 2px #000000; width: 88%; padding: 1px 15px; margin: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.5)}
+.email-example a.collapsible-block-link {font-weight: bold;}
+.tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
+[[/module]]
 Attention all site directors,
 In an effort to create a more stable backup system and contingency plans,
 I have begun work on Project [DATA EXPUNGED]. However, one hold up rhat i would 
@@ -5,4 +17,23 @@ like to request assistance for involves the relocation of spacial or geographic 
 
 Site-814 and SCP-[DATA EXPUNGED] are being constructed for the purpose of harboring 
 anomalies that defy are understanding of physical space, and if we could develop a method
-of moving large areas of land, we could potentially alleviate dozens of SCPs to the Safe designation. 
+of moving large areas of land, we could potentially alleviate dozens of SCPs to the Safe designation.
+
+[[div class="email-example"]]
+[[=]]
+------
+[[collapsible show="Access SCiPNET Email? One (1) new message!" hide="Re:SUBJECT"]]
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** RECIPIENT
+**From:** SENDER
+**Subject:** SUBJECT
+[[/div]]
+------
+text
+[[/div]]
+[[/<]]
+[[/collapsible]]
+[[/=]]
+[[/div]]
