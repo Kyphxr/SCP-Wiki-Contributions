@@ -201,9 +201,9 @@ weed lmao
 @import url('https://fonts.googleapis.com/css2?family=Telex&display=swap');
 
 :root {
-    --theme-id: "UNDERVEGAS THEME";
-    --theme-name: "UNDERVEGAS THEME";
-    --logo-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Ahighroller/finished2.gif");
+    --theme-id: "SUBTROPOLIS THEME";
+    --theme-name: "SUBTROPOLIS THEME"; 
+    --logo-image: url("https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/45dca3b693c8ae0d0739acd1f1c98d79.png");
     --header-title: "SITE-814";
     --header-subtitle: "SUB-SUBTROPOLIS";
     --header-font: 'Playfair Display', serif;
