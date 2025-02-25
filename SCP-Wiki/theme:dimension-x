@@ -279,7 +279,7 @@ weed lmao
     left: 0;
     width: 100%;
     height: 13rem;
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ec/Bellagio_Fountain.jpg");
+    background-image: url("https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/31be0604-4e5e-4c20-88ec-88a67eec6393/uploads/images/58eb305d0d1aad9ce654852697e0f735.png");
     background-size: cover;
     background-position: 50% 65%;
     background-repeat: repeat-x;
