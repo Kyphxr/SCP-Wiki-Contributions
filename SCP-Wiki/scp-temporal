@@ -1,5 +1,11 @@
-item#: placeholder
-containment class: safe
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= x0000
+|clearance= 4
+|container-class= safe
+|secondary-class= none
+|disruption-class= ekhi
+|risk-class= warning
+]]
 
 special comtainment procedures: a 1 mile perimeter has been established around placeholder island.
 Any persons, entity, or object that crosses this threshold is deemed lost and should
@@ -67,12 +73,12 @@ It is for this reason i reccomend the counsil closes SCP-xxxx from all further t
 to maintain a perimeter around the island. SCP-xxxx could theoretically be better contained at site-814, however the effects seem to be 
 tied to the geographic location, as opposed to an entity or object at said location, making this impossible. 
 
-Addendum xxxx-4: SCP-xxxx duplication test:
+Addendum xxxx-4: SCP-xxxx duplication test #4:
 A fire pit was constructed on the northern most part of scp-xxxx's perimeter. A d-class personnel was instructed to approach the island on
-a dingy, stop at 100m out, and use a t-shirt cannon to fire a shirt, connected to a 200m rope cord, onto the island. The D-class was then instructed to drive 
+a dingy, stop at 100m out, and use a t-shirt cannon to fire a shirt, connected to a string, onto the island. The D-class was then instructed to drive 
 back to the perimeter, and give the cable to a researcher, who pulled the shirt up into the fire pit where it was incinerated. The D-class was monitored
 for 10 minutes. 
 
 Results: every 8 minutes a t-shirt and about 5m of rope are dragged across the water, seemingly by nothing, up into the fire pit where they are incinerated. 
 The D-class was unaffected. 
-Note: this fire pit is to remain lit indefinitely. Construction of a proper incinerator has begun. 
+Note: this fire pit is to remain lit indefinitely. Construction of a proper incinerator has begun.
