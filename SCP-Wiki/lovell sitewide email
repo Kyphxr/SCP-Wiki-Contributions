@@ -10,7 +10,22 @@
 .email-example a.collapsible-block-link {font-weight: bold;}
 .tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
 [[/module]]
-Attention all site directors,
+
+
+[[div class="email-example"]]
+[[=]]
+------
+[[collapsible show="Access SCiPNET Email? One (1) new message!" hide="Geographical Relocation"]]
+[[<]]
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** //All//
+**From:** Dr. Lovell
+**Subject:** Geographical Relocation
+[[/div]]
+------
+
++ Attention all site directors,
 In an effort to create a more stable backup system and contingency plans,
 I have begun work on Project [DATA EXPUNGED]. However, one hold up rhat i would 
 like to request assistance for involves the relocation of spacial or geographic anomalies. 
@@ -18,20 +33,6 @@ like to request assistance for involves the relocation of spacial or geographic 
 Site-814 and SCP-[DATA EXPUNGED] are being constructed for the purpose of harboring 
 anomalies that defy are understanding of physical space, and if we could develop a method
 of moving large areas of land, we could potentially alleviate dozens of SCPs to the Safe designation.
-
-[[div class="email-example"]]
-[[=]]
-------
-[[collapsible show="Access SCiPNET Email? One (1) new message!" hide="Re:SUBJECT"]]
-[[<]]
-[[div class="email"]]
-[[div class="tofrom"]]
-**To:** RECIPIENT
-**From:** SENDER
-**Subject:** SUBJECT
-[[/div]]
-------
-text
 [[/div]]
 [[/<]]
 [[/collapsible]]
