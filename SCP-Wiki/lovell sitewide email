@@ -11,10 +11,6 @@
 .tofrom {margin-left: 10px; margin-top: 5px; padding: 1px 15px; border-left: solid 3px maroon}
 [[/module]]
 
-[[>]]
-[[module Rate]]
-[[/>]]
-
 [[div class="email-example"]]
 [[=]]
 ------
@@ -43,6 +39,18 @@ Site-814 and SCP-[DATA EXPUNGED] are being constructed for the purpose of harbor
 ------
 This might be the stupidest thing I've ever heard a site director request.
 [[/div]]
+
+@@ @@
+[[div class="email"]]
+[[div class="tofrom"]]
+**To:** Dr. [Data Expunged]
+**From:** Dr. Lovell
+**Subject:** Re:Re:Geographical Relocation
+[[/div]]
+------
+Oh, this email was only meant for site directors. Well the point still stands, I am open to proposals.
+[[/div]]
+
 [[/<]]
 [[/collapsible]]
 [[/=]]
